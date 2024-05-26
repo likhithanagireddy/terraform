@@ -1,7 +1,7 @@
 # terraform
 
 # DAY -1
-We will be learning why, what how terraform is used ,lifecycle,state file
+We will be learning why, what how terraform is used ,lifecycle,state file , creating a simple EC2 instance
 # DAY -2 
 providers, Resources, Variables , Outputs, Condidtional Expressions, Functions, Debugging and formatting terraform files
 # DAY -3 
